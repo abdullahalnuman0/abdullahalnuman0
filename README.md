@@ -1,86 +1,97 @@
 # 👋 Hello, I'm Abdullah
 
-**Software Developer | Android Specialist | IoT Enthusiast**
+**Software Developer | Android & Backend Specialist**
 
-I'm a passionate and self-motivated software developer who believes in learning by building. I focus on creating real-world projects that solve practical problems, with a strong emphasis on Android development, clean architecture, and hardware-software integration.
+I'm a passionate software developer focused on building **scalable mobile applications** and **robust backend systems**. I enjoy creating practical solutions that solve real-world problems through clean code and thoughtful architecture.
+
+[![GitHub followers](https://img.shields.io/github/followers/abdullahalnuman0?style=social)](https://github.com/abdullahalnuman0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter)](https://twitter.com/yourhandle)
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Technical Stack
 
 ### **Mobile Development**
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?logo=jetpackcompose&logoColor=white)
 
-**Architecture & Components:** MVVM, Repository Pattern, Use Cases, WorkManager, AlarmManager, Foreground Services, Notifications, RecyclerView, REST APIs
+**Architecture & Libraries:**  
+MVVM • Clean Architecture • Repository Pattern • UseCase Layer  
+Room • DataStore • WorkManager • Retrofit • Coroutines/Flow
 
-### **Backend & Web**
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Servlets/JSP](https://img.shields.io/badge/JSP&Servlets-007396?style=for-the-badge&logo=java&logoColor=white)
+### **Backend Development**
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?logo=rest&logoColor=white)
 
-### **Hardware & IoT**
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
-**Components:** HC-05, Various sensors, Android-controlled hardware systems
-
-### **Tools & Environment**
-![Linux](https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Tools & Environment:**  
+Linux/Ubuntu • Git • Postman • Firebase • Docker (Basics)
 
 ---
 
-## 🚀 Featured Projects
+## 📱 Featured Projects
 
-### **Android Utility Suite**
-A collection of practical Android applications including text tools, smart alarm/reminder systems, and notepad apps. Built with **Jetpack Compose, MVVM, Room Database**, and system components like WorkManager and Notifications.
+### **HelloBlog** | Full-Stack Blogging Platform
+A programming-focused content platform with user authentication, article management, and interactive features.
+- **Android App:** Kotlin, Jetpack Compose, MVVM, Room
+- **Backend:** Laravel REST API, MySQL, JWT Authentication
+- **Features:** User profiles, article publishing, favorites, search
 
-### **HelloBlog**
-A programming-focused blogging platform with user authentication, rich text editing, and social features. **PHP Laravel backend** with responsive frontend and RESTful API design.
+### **Utility Toolkit** | Android Productivity Suite
+A collection of text tools, note-taking, and reminder applications published on Play Store.
+- **Tech:** Kotlin, WorkManager, Foreground Services, AlarmManager
+- **Architecture:** Clean Architecture with UseCase layer
+- **Key Features:** Material Design 3, Local persistence, Background processing
 
-### **IoT Control System**
-Android application that communicates with custom hardware via Bluetooth (HC-05) to control and monitor IoT devices. Features real-time sensor data visualization and automated task scheduling.
-
-### **Automation Toolkit**
-Browser extensions and testing utilities for website interaction automation. Focus on practical productivity enhancements.
-
----
-
-## 📈 Current Focus
-
-- **Advancing Android Architecture:** Deep diving into scalable app architecture, dependency injection (Hilt/Dagger), and testing strategies
-- **Play Store Development:** Preparing production-ready applications for public release
-- **System Design:** Improving backend system design and API architecture skills
-- **Competitive Programming:** Regular problem-solving practice on LeetCode and Codeforces
+### **TaskFlow** | Smart Reminder & Task Manager
+Advanced task management with intelligent notifications and scheduling.
+- **Tech:** Jetpack Compose, Room, DataStore, WorkManager
+- **Pattern:** Repository pattern with sealed Result classes
+- **Focus:** Clean UI, reliable notifications, data integrity
 
 ---
 
-## 🎯 Professional Goals
+## 🎯 Current Focus
 
-1. **Become a Professional Android Developer** with expertise in both Java and Kotlin ecosystems
-2. **Publish High-Quality Applications** on Google Play Store with meaningful user impact
-3. **Build Scalable Software Products** that address real-world needs
-4. **Master System Design** principles for both mobile and backend systems
-5. **Contribute to Open Source** projects in the Android and IoT communities
-
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@domain.com)
+- 🔭 **Deepening Android Expertise:** Advanced Jetpack Compose patterns, performance optimization
+- 🌱 **Learning:** Advanced backend architecture, system design principles
+- 🚀 **Building:** Full-stack mobile applications with scalable backend systems
+- 📚 **Improving:** Code architecture, testing practices, documentation
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
+<div align="center">
+  
 ![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullahalnuman0&show_icons=true&theme=default&hide_title=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalnuman0&layout=compact&theme=default)
 
+</div>
+
 ---
 
-> **Philosophy:** *"The best way to learn is to build. Every project, no matter how small, teaches something valuable."*
+## 🎖️ Development Principles
+
+```kotlin
+// My approach to development
+object AbdullahDevPrinciples {
+    val cleanCode = true
+    val userFirst = true
+    val testCoverage = "High Priority"
+    val documentation = "Essential"
+    val continuousLearning = "Always"
+    
+    fun buildProject(idea: Idea): Project {
+        return Project(
+            architecture = CleanArchitecture(),
+            codeQuality = HighStandard(),
+            scalability = DesignedForGrowth(),
+            maintenance = EasyToUpdate()
+        )
+    }
+}
