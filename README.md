@@ -81,10 +81,6 @@ Browser extensions and testing utilities for website interaction automation. Foc
 ![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullahalnuman0&show_icons=true&theme=default&hide_title=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalnuman0&layout=compact&theme=default)
 
-*Note: Replace `yourusername` with your actual GitHub username and update social links.*
-
 ---
 
 > **Philosophy:** *"The best way to learn is to build. Every project, no matter how small, teaches something valuable."*
-
-*Last Updated: April 2024*
