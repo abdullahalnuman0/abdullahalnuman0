@@ -78,8 +78,8 @@ Browser extensions and testing utilities for website interaction automation. Foc
 
 ## 📊 GitHub Stats
 
-![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default)
+![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullahalnuman0&show_icons=true&theme=default&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalnuman0&layout=compact&theme=default)
 
 *Note: Replace `yourusername` with your actual GitHub username and update social links.*
 
