@@ -68,8 +68,11 @@ Advanced task management with intelligent notifications and scheduling.
 
 <div align="center">
   
-![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullahalnuman0&show_icons=true&theme=default&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalnuman0&layout=compact&theme=default)
+<!-- Stats Card with more options -->
+![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullahalnuman0&show_icons=true&theme=radical&hide_border=true&bg_color=30,0d1117,161b22&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+
+<!-- Top Languages with exclusion -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalnuman0&layout=compact&theme=radical&hide_border=true&bg_color=30,0d1117,161b22&title_color=58a6ff&text_color=c9d1d9&hide=html,css,scss)
 
 </div>
 
