@@ -101,6 +101,7 @@ object AbdullahDevPrinciples {
         )
     }
 }
+```
 
 ---
 
